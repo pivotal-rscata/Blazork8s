@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "byImT+0lBakQD7AsVxmyNEV3vBz6jLmVc+4TebtNtxkHjNyx9p4f9+bWmw8k60qFBn1OmhJuLnH7dSjIt+u6Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robsc\\source\\repos\\Blazork8s\\Blazork8s\\Blazork8s.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robsc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
